@@ -10,7 +10,6 @@ def divisors(t_number):
 
             divisors_num = divisors_num + 2
 
-
     return divisors_num
 
 print divisors(10)
